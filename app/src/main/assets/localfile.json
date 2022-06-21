@@ -1,0 +1,34 @@
+[
+		{
+			"img_name":"p_image1",
+			"first_name":"Raj",
+			"email": "@Raj",
+			"type": "personal"
+		},
+		{
+			"img_name":"p_image2",
+			"first_name":"bhavisha",
+			"email": "@bhavisha",
+			"type": "buisness"
+		},
+		{
+			"img_name":"p_image3",
+			"first_name":"sakshi",
+			"email": "@sakshi",
+			"type": "personal"
+		},
+		{
+			"img_name":"p_image4",
+			"first_name":"sahil",
+			"email": "@sahil",
+			"type": "buisness"
+
+
+		},
+		{
+			"img_name":"p_image5",
+			"first_name":"pankil",
+			"email": "@pankil",
+			"type": "personal"
+		}
+	]
